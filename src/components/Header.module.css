@@ -1,0 +1,20 @@
+.header {
+   background: var(--gray-800);
+
+   display: flex;
+   justify-content: center;
+
+   padding: 1.25rem 0;
+}
+
+.header div {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 1rem;
+}
+
+.header h1 {
+    font-size: 1.6rem;
+    color: var(--gray-100);
+ }
